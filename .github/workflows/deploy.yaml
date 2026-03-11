@@ -8,7 +8,7 @@ on:
       - main
 
 # 이벤트 발생 시 동작해야 할 작업 정의
-jods:
+jobs:
   deploy:
     runs-on: ubuntu-latest
 
